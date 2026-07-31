@@ -21,8 +21,8 @@ The runtime package contains exactly `main.js`, `manifest.json`, and `styles.css
 Corresponding source for release `0.0.1`:
 
 - repository: <https://github.com/cybersader/kwiry>
-- source tag: [`d5c-balanced-playground-0.0.1-source`](https://github.com/cybersader/kwiry/tree/d5c-balanced-playground-0.0.1-source)
-- source commit: `ac7b0a0555dedda5e945998e1ad5d776ae297082`
+- source tag: [`d5c-balanced-playground-0.0.1-r2-source`](https://github.com/cybersader/kwiry/tree/d5c-balanced-playground-0.0.1-r2-source)
+- source commit: `b7cc98014ad3e56f5f5a88ecd58237f764eb1af6`
 
 Each frozen release provides the three runtime files plus GPL/Apache notices, `SHA256SUMS`, and a sanitized build attestation. The attestation records source identity, deterministic-build state, embedded artifact identities, cache isolation, and known limitations without vault paths, note content, query content, or credentials.
 
