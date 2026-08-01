@@ -25,8 +25,8 @@ Release `0.0.1` remains frozen as the previous fixture-only build for rollback c
 Corresponding source for release `0.0.2`:
 
 - repository: <https://github.com/cybersader/kwiry>
-- source tag: [`d5c-balanced-playground-0.0.2-r4-source`](https://github.com/cybersader/kwiry/tree/d5c-balanced-playground-0.0.2-r4-source)
-- source commit: `7ead90377c290e4170ed7d73e3d6beea008c7877`
+- source tag: [`d5c-balanced-playground-0.0.2-r5-source`](https://github.com/cybersader/kwiry/tree/d5c-balanced-playground-0.0.2-r5-source)
+- source commit: `7d3e036b0b6c77836fbcdf0e5a7b8117a66f9abf`
 
 Release `0.0.2` provides the three runtime files plus GPL, Apache-2.0, Emscripten, and exact Rust dependency license terms; third-party notices; `SHA256SUMS`; and a sanitized build attestation. The attestation records source identity, same-environment repeatability, embedded artifact identities, cache/network isolation, and known limitations without vault paths, note content, query content, or credentials.
 
